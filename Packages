@@ -1,0 +1,13 @@
+Package: com.megachickn101.mono
+Name: Mono
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Mono Is My First Ever Theme! It's A Simple Black And White Theme That May Or May Not Be Updated (Depending If I Feel Like It)
+Maintainer: Megachickn101
+Author: Megachickn101
+Section: Themes
+Filename: ./debs/com.megachickn101.mono_1.0_iphoneos-arm.deb
+Size: 699924
+MD5sum: 63f59d4a2519ad6b735134e91563b5e8
+SHA1: 20f2e23eeee1ef8d14b808cc5fc0ca18879574eb
+SHA256: 786b464c8517ff1569b22b3a371e3f1d015334169294af6a09f39d1644a327a9
