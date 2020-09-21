@@ -11,6 +11,7 @@ Size: 699924
 MD5sum: 63f59d4a2519ad6b735134e91563b5e8
 SHA1: 20f2e23eeee1ef8d14b808cc5fc0ca18879574eb
 SHA256: 786b464c8517ff1569b22b3a371e3f1d015334169294af6a09f39d1644a327a9
+Icon: https://megachickn101.github.io/html_images/mono_logo.png
 
 Package: com.megachickn101.WuCruRespring
 Name: Wu Cru Respring
@@ -25,3 +26,4 @@ Size: 104724
 MD5sum: 361b07037336b0d5467edaef59fdf975
 SHA1: 6ee7dd7d90637e61a8cf7c03bafa9c0524fabb40
 SHA256: 96b3592be65d18bca7580d6ba8f05c0250409a35ef6ed2346ebca6dc9696275d
+Logo: https://megachickn101.github.io/html_images/wu_logo.png
