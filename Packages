@@ -27,3 +27,77 @@ MD5sum: 361b07037336b0d5467edaef59fdf975
 SHA1: 6ee7dd7d90637e61a8cf7c03bafa9c0524fabb40
 SHA256: 96b3592be65d18bca7580d6ba8f05c0250409a35ef6ed2346ebca6dc9696275d
 Icon: https://megachickn101.github.io/html_images/wu_logo.png
+
+Package: com.megachickn101.applerespringlogo1
+Name: Apple Respring Logo 1
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Apple Respring Logo 1 - Part Of The Respring Logo Series
+Maintainer: Megachickn101
+Author: Megachickn101
+Section: Themes
+Filename: ./debs/com.megachickn101.applerespringlogo1_1.0_iphoneos-arm.deb
+Size: 48576
+MD5sum: 2efefefeeb95c485f6ee8d0864f8772e
+SHA1: c18026e9be867176e2ff28d007269867d319084b
+SHA256: 790a25c87564351d5c2fde2e9a26ef49aacccc9037ae6adddb6796a09f5fa6dd
+Icon: https://megachickn101.github.io/html_images/apple1b360.png
+Package: com.megachickn101.applerespringlogo2
+Name: Apple Respring Logo 2
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Apple Respring Logo 2 - Part Of The Respring Logo Series
+Maintainer: Megachickn101
+Author: Megachickn101
+Section: Themes
+Filename: ./debs/com.megachickn101.applerespringlogo2_1.0_iphoneos-arm.deb
+Size: 105366
+MD5sum: e4676b04a02a2d393ba92fb6d629b4d9
+SHA1: dc6740c804593796d6de21a6ba7e3012599d1367
+SHA256: 9c5d84089193730909e833e98e45630582974f342307a36acc72b1c097b561ef
+Icon: https://megachickn101.github.io/html_images/apple2b360.png
+
+Package: com.megachickn101.applerespringlogo3
+Name: Apple Respring Logo 3
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Apple Respring Logo 3 - Part Of The Respring Logo Series
+Maintainer: Megachickn101
+Author: Megachickn101
+Section: Themes
+Filename: ./debs/com.megachickn101.applerespringlogo3_1.0_iphoneos-arm.deb
+Size: 161888
+MD5sum: 24aaec9248ad1efb664dab88e010dcea
+SHA1: c0e3fcc9a98756e76eb04c4540676d511946dbc6
+SHA256: c784a1b297671812de5200945b05ceaad2bb777bf1d7e9a84fd2d8af357eac0a
+Icon: https://megachickn101.github.io/html_images/apple3b360.png
+
+Package: com.megachickn101.applerespringlogo4
+Name: Apple Respring Logo 4
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Apple Respring Logo 4 - Part Of The Respring Logo Series
+Maintainer: Megachickn101
+Author: Megachickn101
+Section: Themes
+Filename: ./debs/com.megachickn101.applerespringlogo4_1.0_iphoneos-arm.deb
+Size: 121338
+MD5sum: bcba419fa197643e52d40ec07511cb44
+SHA1: 72e6bc6c38ecc3a2c2db840bfa8a9cfdde211864
+SHA256: 9e4f6f12247ff411ebc31a011efea6c8a21ea5716dfc49a3c42bfd167df85a49
+Icon: https://megachickn101.github.io/html_images/apple4b360.png
+
+Package: com.megachickn101.applerespringlogo5
+Name: Apple Respring Logo 5
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Apple Respring Logo 5 - Part Of The Respring Logo Series
+Maintainer: Megachickn101
+Author: Megachickn101
+Section: Themes
+Filename: ./debs/com.megachickn101.applerespringlogo5_1.0_iphoneos-arm.deb
+Size: 71162
+MD5sum: c1a64afe550a7676f9ec0ae588731eb0
+SHA1: 70cdba6ae327c3f9f819da20584b4be3d96b6037
+SHA256: dd4e5a45d2ae9b9b8476c59c2076149227bce50352a3a42f0adfb46b5fca72e6
+Icon: https://megachickn101.github.io/html_images/apple5b360.png
