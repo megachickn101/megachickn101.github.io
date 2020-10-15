@@ -1,0 +1,24 @@
+body {
+  background-color: black;
+}
+h1 {
+  color: chartreuse;
+  font-family: monospace;
+  font-size: 300%;
+  text-align: center;
+}
+p {
+  color: chartreuse;
+  font-family: monospace;
+  text-align: center;
+}
+
+</style>
+</head>
+<body>
+
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
