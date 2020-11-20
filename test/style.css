@@ -1,0 +1,15 @@
+body {
+  background-color: DarkBlue;
+}
+h1 {
+  color: Gold;
+  font-family: Impact;
+  font-size: 300%;
+  text-align: center;
+}
+p {
+  color: Gold;
+  font-family: Impact;
+  font-size: 200%;
+  text-align: center;
+}
