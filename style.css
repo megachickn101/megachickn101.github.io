@@ -1,29 +1,97 @@
 body {
-  background-color: Black;
+  background-color: #00FFFF;
 }
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #FFFF00;
+   color: #FFFF00;
+}
+
+body {
+  background-image: url('html_images/bk.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
 h1 {
-  color: DarkViolet;
-  font-family: Impact;
-  font-size: 300%;
-  text-align: center;
-}
-p {
-  color: DarkViolet;
+  color: #FF0000;
   font-family: Impact;
   font-size: 200%;
+}
+p {
+  color: #FF0000;
+  font-family: Impact;
+  font-size: 100%%;
   text-align: center;
 }
 
+body {
+  margin: 0;
+  padding: 0;
+
+}
+
+
 .fa {
- padding: 20px;
- font-size: 30px;
- width: 50px;
- text-align: center;
- text-decoration: none;
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  margin: 4px 2px;
+  opacity: 0.95;
+  transition: 0.3s;
+  display: inline-block;
+}
+
+.link {
+  padding: 20px;
+  font-size: 19px;
+  width: 250px;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  margin: 4px 2px;
+  opacity: 0.95;
+  transition: 0.3s;
+  display: inline-block;
+}
+
+.link2 {
+  padding: 20px;
+  font-size: 19px;
+  width: 275px;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  margin: 4px 2px;
+  opacity: 0.95;
+  transition: 0.3s;
+  display: inline-block;
 }
 
 .fa:hover {
- opacity: 0.7;
+  background-color: #00FFFF;
+  color: white;
+  opacity: 1;
+}
+
+.link:hover {
+  background-color: #FF0000;
+  color: white;
+  opacity: 1;
+}
+
+.link2:hover {
+  background-color: #FF0000;
+  color: white;
+  opacity: 1;
 }
 
 
@@ -55,10 +123,12 @@ color: white;
  cursor: pointer;
 }
 
-.jailbreak {background-color: #370035;
-  color: DarkViolet;
+.jailbreak {background-color: #FFFFFF;
+  border-radius: 12px;
+  color: Black;
 }
 
-.github {background: #370035;
-  color: DarkViolet;
+.github {background: #FFFFFF;
+  border-radius: 12px;
+  color: Black;
 }
