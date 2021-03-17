@@ -76,6 +76,19 @@ body {
   display: inline-block;
 }
 
+.link3 {
+  padding: 20px;
+  font-size: 19px;
+  width: 300px;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  margin: 4px 2px;
+  opacity: 0.95;
+  transition: 0.3s;
+  display: inline-block;
+}
+
 .fa:hover {
   background-color: #00FFFF;
   color: white;
@@ -94,6 +107,11 @@ body {
   opacity: 1;
 }
 
+.link3:hover {
+  background-color: #FF0000;
+  color: white;
+  opacity: 1;
+}
 
 .fa-facebook {
  background: #3B5998;
@@ -129,6 +147,11 @@ color: white;
 }
 
 .github {background: #FFFFFF;
+  border-radius: 12px;
+  color: Black;
+}
+
+.coconut {background: #FFFFFF;
   border-radius: 12px;
   color: Black;
 }
