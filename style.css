@@ -1,53 +1,27 @@
 body {
-  background-color: #00FFFF;
+  background-color: #87CEEB;
 }
 
-.footer {
-   position: fixed;
-   left: 0;
-   bottom: 0;
-   width: 100%;
-   background-color: #FFFF00;
-   color: #FFFF00;
-}
-
-body {
-  background-image: url('html_images/bk.png');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
+.popup {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
 }
 
 h1 {
-  color: #FF0000;
-  font-family: Impact;
-  font-size: 200%;
+  font-family: Arial;
+  font-size: 110px;
+  color: #FFFFFF;
 }
+
 p {
-  color: #FF0000;
-  font-family: Impact;
-  font-size: 100%%;
-  text-align: center;
-}
-
-body {
-  margin: 0;
-  padding: 0;
-
-}
-
-
-.fa {
-  padding: 20px;
-  font-size: 30px;
-  width: 50px;
-  text-align: center;
-  text-decoration: none;
-  cursor: pointer;
-  margin: 4px 2px;
-  opacity: 0.95;
-  transition: 0.3s;
-  display: inline-block;
+  font-family: Arial;
+  font-size: 25px;
+  color: #FFFFFF;
+  line-height: 0px;
+  margin-top:-65px;
 }
 
 .link {
@@ -63,95 +37,15 @@ body {
   display: inline-block;
 }
 
-.link2 {
-  padding: 20px;
-  font-size: 19px;
-  width: 275px;
-  text-align: center;
-  text-decoration: none;
-  cursor: pointer;
-  margin: 4px 2px;
-  opacity: 0.95;
-  transition: 0.3s;
-  display: inline-block;
-}
-
-.link3 {
-  padding: 20px;
-  font-size: 19px;
-  width: 300px;
-  text-align: center;
-  text-decoration: none;
-  cursor: pointer;
-  margin: 4px 2px;
-  opacity: 0.95;
-  transition: 0.3s;
-  display: inline-block;
-}
-
-.fa:hover {
-  background-color: #00FFFF;
-  color: white;
-  opacity: 1;
-}
-
 .link:hover {
-  background-color: #FF0000;
-  color: white;
+  background-color: #FFFFFF;
+  color: #4682B4;
+  font-family: Arial;
   opacity: 1;
 }
 
-.link2:hover {
-  background-color: #FF0000;
-  color: white;
-  opacity: 1;
-}
-
-.link3:hover {
-  background-color: #FF0000;
-  color: white;
-  opacity: 1;
-}
-
-.fa-facebook {
- background: #3B5998;
- color: white;
-}
-
-.fa-twitter {
- background: #55ACEE;
- color: white;
-}
-
-.fa-youtube {
-background: #FF0000;
-color: white;
-}
-
-.fa-google {
-  background: #dd4b39;
-  color: white;
-}
-
-
-.btn {
- border: none;
- color: white;
- padding: 14px 28px;
- cursor: pointer;
-}
-
-.jailbreak {background-color: #FFFFFF;
+.github {background: #4682B4;
   border-radius: 12px;
-  color: Black;
-}
-
-.github {background: #FFFFFF;
-  border-radius: 12px;
-  color: Black;
-}
-
-.coconut {background: #FFFFFF;
-  border-radius: 12px;
-  color: Black;
+  color: White;
+  font-family: Arial;
 }
